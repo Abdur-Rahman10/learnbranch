@@ -1,1 +1,6 @@
+B
+<<<<<<< HEAD
 changes made again
+=======
+changes made again
+>>>>>>> c3a7fa8 (commit from repo B)
